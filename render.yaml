@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: epanet-calibration-tool
+    env: python
+    buildCommand: ""
+    startCommand: streamlit run web_app2.py
+    plan: free
