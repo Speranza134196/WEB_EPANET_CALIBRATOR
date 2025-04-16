@@ -104,6 +104,7 @@ Time,Junction1,Pipe12
 
 Built with 💙 using Python, Streamlit, and EPANET (via WNTR)
 
+prof Francesco De Paola
 ---
 
 ## 📃 License
